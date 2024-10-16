@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LudvigAlmvaang
 - 👀 I’m interested in games, computing, linux, programming etc...
-- 🌱 I’m currently learning Data Engineering on IBM's learning programme
+- 🌱 I’m currently learning Data Engineering on IBM's learning program
 <!---
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
