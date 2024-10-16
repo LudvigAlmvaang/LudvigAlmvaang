@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LudvigAlmvaang
-- 👀 I’m interested in games, computing, linux, programming etc...
+- 👀 I’m interested in games, computer hardware, linux, programming etc...
 - 🌱 I’m currently learning Data Engineering on IBM's learning program
 <!---
 - 💞️ I’m looking to collaborate on ..
